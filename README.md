@@ -5,7 +5,7 @@ EmpireOfShadowsr is a tool for brute forcing Bitcoin Wallets
 Disclaimer:
 This script is developed for educational and research purposes only.
 
-By using this code, you agree to the following:
+By using this code, you agree to the following *Wink Wink*:
 
 You will not use this code, in whole or in part, for malicious intent, including but not limited to unauthorized mining on third-party systems.
 You will seek explicit permission from any and all system owners before running or deploying this code.
